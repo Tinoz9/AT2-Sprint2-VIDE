@@ -1,0 +1,10 @@
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\bin\Debug\At2 Sprint 2.exe.config
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\bin\Debug\At2 Sprint 2.exe
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\bin\Debug\At2 Sprint 2.pdb
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2 Sprint 2.csprojAssemblyReference.cache
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2_Sprint_2.Form1.resources
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2_Sprint_2.Properties.Resources.resources
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2 Sprint 2.csproj.GenerateResource.cache
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2 Sprint 2.csproj.CoreCompileInputs.cache
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2 Sprint 2.exe
+D:\Cert IV programming\C#\AT 2\At2 Sprint 2\At2 Sprint 2\obj\Debug\At2 Sprint 2.pdb
